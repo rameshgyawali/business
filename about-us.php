@@ -14,6 +14,7 @@
 
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/responsive.css">
 
 	<link rel="apple-touch-icon" sizes="180x180" href="<?php echo url ?>images/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="<?php echo url ?>images/favicon/favicon-32x32.png" sizes="32x32">
